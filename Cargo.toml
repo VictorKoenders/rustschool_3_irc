@@ -1,0 +1,14 @@
+[package]
+authors = ["Victor Koenders <victor.koenders@gmail.com>"]
+edition = "2018"
+name = "rustschool_2_irc"
+version = "0.1.0"
+
+[dependencies]
+chrono = "0.4.6"
+failure = "0.1.5"
+irc = "0.13.6"
+rand = "0.6.4"
+reqwest = "0.9.8"
+serde = "1.0.84"
+serde_json = "1.0.36"
